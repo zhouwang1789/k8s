@@ -1,2 +1,2 @@
-# k8s
+# Demo project for kubernetes
 A mini distributed system
